@@ -1,0 +1,52 @@
+{
+  "key_0": {
+    "value": "val_0",
+    "tags": [],
+    "timestamp": 1786652037.7236962
+  },
+  "key_1": {
+    "value": "val_1",
+    "tags": [],
+    "timestamp": 1786652037.72558
+  },
+  "key_2": {
+    "value": "val_2",
+    "tags": [],
+    "timestamp": 1786652037.725931
+  },
+  "key_3": {
+    "value": "val_3",
+    "tags": [],
+    "timestamp": 1786652037.726252
+  },
+  "key_4": {
+    "value": "val_4",
+    "tags": [],
+    "timestamp": 1786652037.7266188
+  },
+  "key_5": {
+    "value": "val_5",
+    "tags": [],
+    "timestamp": 1786652037.726937
+  },
+  "key_6": {
+    "value": "val_6",
+    "tags": [],
+    "timestamp": 1786652037.727268
+  },
+  "key_7": {
+    "value": "val_7",
+    "tags": [],
+    "timestamp": 1786652037.727621
+  },
+  "key_8": {
+    "value": "val_8",
+    "tags": [],
+    "timestamp": 1786652037.727948
+  },
+  "key_9": {
+    "value": "val_9",
+    "tags": [],
+    "timestamp": 1786652037.728245
+  }
+}

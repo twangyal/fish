@@ -1,0 +1,106 @@
+2026-08-13 16:05:30,675 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:05:30,675 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:05:30,815 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:05:30,815 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:05:30,969 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:05:30,970 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:06:30,735 - {"type": "THOUGHT", "payload": {"content": "Processing input: set remind"}}
+2026-08-13 16:06:30,735 - {"type": "THOUGHT", "payload": {"content": "Taking ReAct Path"}}
+2026-08-13 16:06:34,715 - {"type": "THOUGHT", "payload": {"content": "Processing input: set remind"}}
+2026-08-13 16:06:34,715 - {"type": "THOUGHT", "payload": {"content": "Taking ReAct Path"}}
+2026-08-13 16:06:38,613 - {"type": "THOUGHT", "payload": {"content": "Processing input: set reminder"}}
+2026-08-13 16:06:38,614 - {"type": "THOUGHT", "payload": {"content": "Taking ReAct Path"}}
+2026-08-13 16:06:38,614 - {"type": "ACTION", "payload": {"tool": "set_reminder", "arguments": {}}}
+2026-08-13 16:06:38,618 - {"type": "OBSERVATION", "payload": {"tool": "set_reminder", "result": "Failed: No module named 'numpy'"}}
+2026-08-13 16:06:52,889 - {"type": "THOUGHT", "payload": {"content": "Processing input: set_reminder"}}
+2026-08-13 16:06:52,889 - {"type": "THOUGHT", "payload": {"content": "Taking ReAct Path"}}
+2026-08-13 16:06:52,889 - {"type": "ACTION", "payload": {"tool": "set_reminder", "arguments": {}}}
+2026-08-13 16:06:52,892 - {"type": "OBSERVATION", "payload": {"tool": "set_reminder", "result": "Failed: No module named 'numpy'"}}
+2026-08-13 16:07:08,358 - {"type": "THOUGHT", "payload": {"content": "Processing input: set_reminder"}}
+2026-08-13 16:07:08,358 - {"type": "THOUGHT", "payload": {"content": "Taking ReAct Path"}}
+2026-08-13 16:07:08,358 - {"type": "ACTION", "payload": {"tool": "set_reminder", "arguments": {}}}
+2026-08-13 16:07:08,788 - {"type": "OBSERVATION", "payload": {"tool": "set_reminder", "result": "Failed: no running event loop"}}
+2026-08-13 16:10:18,194 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:18,195 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:10:18,333 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:18,333 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:10:18,499 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:18,500 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:10:27,988 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:27,989 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:10:28,130 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:28,130 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:10:28,289 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:10:28,289 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:12:44,923 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:12:44,923 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:12:45,065 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:12:45,065 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:12:45,223 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:12:45,223 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:37,118 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:37,119 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:37,259 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:37,260 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:37,423 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:37,423 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:38,860 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:38,860 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:39,001 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:39,001 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:14:39,159 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:14:39,159 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:32:37,769 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:32:37,770 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:32:37,914 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:32:37,914 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:32:38,091 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:32:38,091 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:42:14,077 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:42:14,078 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:42:14,215 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:42:14,215 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:42:14,371 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:42:14,371 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:43:49,107 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:43:49,108 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:43:49,247 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:43:49,247 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:43:49,443 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:43:49,444 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:29,012 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:29,013 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:29,156 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:29,156 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:29,710 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:29,710 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:38,713 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:38,713 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:38,857 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:38,857 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:39,410 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:39,410 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:48,146 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:48,146 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:48,288 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:48,288 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:47:48,829 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:47:48,829 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:08,143 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:08,143 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:08,285 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:08,285 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:08,814 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:08,814 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:18,345 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:18,345 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:18,484 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:18,484 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:48:19,034 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:48:19,034 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:54:24,533 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:54:24,533 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:54:24,675 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:54:24,675 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}
+2026-08-13 16:54:25,217 - {"type": "THOUGHT", "payload": {"content": "Processing input: This is a mock transcription."}}
+2026-08-13 16:54:25,217 - {"type": "THOUGHT", "payload": {"content": "Taking Fast-Path"}}

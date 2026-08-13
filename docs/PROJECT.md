@@ -1,21 +1,16 @@
-# Project
+# Fish AI Agent
 
 ## Purpose
+To build a scalable, modular AI agent within an animatronic fish body, providing engaging and humorous interactions.
 
-Describe what this project does.
+## Core Concept
+An LLM-driven voice agent embodied in a physical fish. It listens via a microphone, replies using TTS, and animates its body and mouth in sync with speech and intent.
 
-## User Goal
-
-Describe the primary outcome the project exists to achieve.
-
-## Current Scope
-
-Describe what is currently in scope.
-
-## Non-Goals
-
-Describe intentionally deferred or excluded work.
+## Scope
+The M0 scope covers basic project structure, configuration, abstract hardware interfaces, watchdog safety mechanisms, and basic deterministic lip-sync logic.
 
 ## Success Criteria
-
-Describe what must be true for the current project phase to be successful.
+- Validated configuration loader.
+- Watchdog enforces max runtimes and cooldowns.
+- Audio chunks translate to normalized mouth positions.
+- Modular architecture defined (Brain/Body split).

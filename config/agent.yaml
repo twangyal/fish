@@ -1,0 +1,13 @@
+mcp:
+  host: "0.0.0.0"
+  port: 8000
+audio:
+  port: 8001
+safety:
+  max_motor_runtime_sec: 5.0
+  motor_cooldown_sec: 2.0
+  emergency_stop_timeout_sec: 1.0
+brain:
+  target: "cloud"
+models:
+  path: "./models"
